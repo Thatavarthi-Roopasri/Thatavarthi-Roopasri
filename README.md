@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hi, I'm Roopasri<br>🎓 B.Tech CSE Student at KL University<br>💻 FullStack Developer & Tech Enthusiast<br>🌱 Currently learning AI/ML, Data Science, and Cloud Computing<br>🚀 Building projects and exploring new technologies
+# 💫 About Me
+
+Hi, I'm **Roopasri**, a B.Tech CSE student who enjoys turning curiosity into something I can actually build. I like exploring different areas of technology, experimenting with new ideas, and learning through hands-on projects. From web applications to AI/ML, data, and cloud technologies, I'm always interested in understanding how things work and finding better ways to solve real-world problems. I believe every project is another opportunity to learn something new, make mistakes, and build something better than before.
+
 
 
 # 💻 Tech Stack:
